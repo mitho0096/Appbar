@@ -1,0 +1,11 @@
+body{
+  background-color: rgb(139, 135, 135);
+  
+}
+#fb{
+  background-color: rgb(242, 237, 237);
+}
+*{
+  margin: 0;
+  padding: 0;
+}
